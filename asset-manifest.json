@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/R-E-mart/static/css/main.0334c937.css",
+    "main.js": "/R-E-mart/static/js/main.46e07516.js",
+    "static/media/bootstrap-icons.woff?": "/R-E-mart/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/R-E-mart/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/R-E-mart/index.html",
+    "main.0334c937.css.map": "/R-E-mart/static/css/main.0334c937.css.map",
+    "main.46e07516.js.map": "/R-E-mart/static/js/main.46e07516.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0334c937.css",
+    "static/js/main.46e07516.js"
+  ]
+}
