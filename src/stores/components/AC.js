@@ -6,7 +6,9 @@ const AC = () => {
   const firstFiveImages = acData.slice(0, 5);
 
   return (
+    
     <>
+    
       <div className="proTitle">
         <h2>Air Condition</h2>
       </div>
@@ -21,8 +23,10 @@ const AC = () => {
           );
         })}
       </div>
+  
     </>
   );
 };
+
 
 export default AC;
